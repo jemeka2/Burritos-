@@ -1,3 +1,21 @@
+/*
+begin
+    import Arraylist, Random, NumberFormat
+
+    create randomizer variable
+    create an arraylist for each ingredient type
+    add all the ingredients to the respective arraylist
+
+    create for loop that loops 25 times
+        create a random number for each ingredient arrayList
+        create burrito price
+        create if statements to detect which ingredient is shown and add price respectively
+        create else if statement to detect if all ingredients were chosen and add price respectively
+
+    create a random switch function that choose the burrito and displays it to the user at random
+ end
+ */
+
 import java.util.ArrayList;
 import java.util.Random;
 import java.text.NumberFormat;
